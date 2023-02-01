@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aurelia Korbela</h1>
 
 - 🔭 I’m currently working on [gold-note](https://github.com/kaurelia/gold-note)
-- 📫 How to reach [LinkedIn](https://linkedin.com/in/aureliak)
+- 📫 How to reach me: [via LinkedIn](https://linkedin.com/in/aureliak)
 
 <p align="center">
  <img alt="React Badge" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
